@@ -1,1 +1,2 @@
+## The Odin Project: Landing Page
 This project was developed as part of the Foundations course in The Odin Project. The goal is to build a responsive and visually appealing landing page using HTML and CSS. It serves as a practical exercise to apply foundational web development skills, including layout design, semantic HTML, and modern CSS styling techniques.
