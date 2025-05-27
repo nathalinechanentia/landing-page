@@ -47,6 +47,7 @@ html, body {
 
 #title-left {
     display: flex;
+    flex: 1;
     flex-direction: column;
     justify-content: center;
 }
